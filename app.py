@@ -16,6 +16,7 @@ url6 = "https://linkedin-enrich.streamlit.app/"
 url7 = "https://querychatbot.streamlit.app/"
 url8 = "https://buildchatbot-zruymcczch9ibcdutf6rtd.streamlit.app/"
 url9 = "https://linkedin-analyser.streamlit.app/"
+url10 = "https://blog-analyser.streamlit.app/
 
 # Create hyperlinks using markdown
 st.header("Subhraneel")
@@ -25,10 +26,11 @@ st.markdown(f"[Strategy Module♞]({url3})")
 st.markdown(f"[Brand Voice Prompt Generator🎙️]({url4})")
 st.markdown(f"[Blog Builder📝]({url5})")
 st.markdown(f"[Lead/Contact Enrichment from LinkedIn Profile ✨]({url6})")
+st.markdown(f"[Blog Analyser🖋️]({url10})")
 
 st.header("Subham")
-st.markdown(f"[QA ChatBot]({url7})")
-st.markdown(f"[Chatbot Agent]({url8})")
+st.markdown(f"[QA ChatBot💬]({url7})")
+st.markdown(f"[Chatbot Agent🤖]({url8})")
 
 st.header("Somnath")
-st.markdown(f"[Linkedin Analyser]({url9})")
+st.markdown(f"[Linkedin Analyser🔮]({url9})")
