@@ -16,7 +16,7 @@ url6 = "https://linkedin-enrich.streamlit.app/"
 url7 = "https://querychatbot.streamlit.app/"
 url8 = "https://buildchatbot-zruymcczch9ibcdutf6rtd.streamlit.app/"
 url9 = "https://linkedin-analyser.streamlit.app/"
-url10 = "https://blog-analyser.streamlit.app/
+url10 = "https://blog-analyser.streamlit.app/"
 
 # Create hyperlinks using markdown
 st.header("Subhraneel")
