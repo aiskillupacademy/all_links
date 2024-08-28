@@ -18,7 +18,7 @@ url8 = "https://buildchatbot-zruymcczch9ibcdutf6rtd.streamlit.app/"
 url9 = "https://linkedin-analyser.streamlit.app/"
 url10 = "https://blog-analyser.streamlit.app/"
 url11 = "https://getytsummary-2sxerwtqmtcgoajjrmrnfw.streamlit.app/"
-url12 = "https://blog-rewriter.streamlit.app/
+url12 = "https://blog-rewriter.streamlit.app/"
 
 # Create hyperlinks using markdown
 st.header("Subhraneel")
