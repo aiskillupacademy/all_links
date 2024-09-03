@@ -19,6 +19,8 @@ url9 = "https://linkedin-analyser.streamlit.app/"
 url10 = "https://blog-analyser.streamlit.app/"
 url11 = "https://getytsummary-2sxerwtqmtcgoajjrmrnfw.streamlit.app/"
 url12 = "https://blog-rewriter.streamlit.app/"
+url13 = "https://blog-schema.streamlit.app/"
+url14 = "https://content-pillars.streamlit.app/"
 
 # Create hyperlinks using markdown
 st.header("Subhraneel")
@@ -29,7 +31,9 @@ st.markdown(f"[Brand Voice Prompt Generator🎙️]({url4})")
 st.markdown(f"[Blog Builder📝]({url5})")
 st.markdown(f"[Lead/Contact Enrichment from LinkedIn Profile ✨]({url6})")
 st.markdown(f"[Blog Analyser🖋️]({url10})")
-st.markdown(f"[Blog Rewriter🖋️]({url12})")
+st.markdown(f"[Blog Rewriter🔁]({url12})")
+st.markdown(f"[Blog Schema✍️]({url13})")
+st.markdown(f"[Content Pillars🗿]({url14})")
 
 
 st.header("Subham")
