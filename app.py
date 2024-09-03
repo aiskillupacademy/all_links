@@ -5,8 +5,8 @@ st.set_page_config(
     page_icon="🔖"
 )
 st.title("Rava.AI")
-
 # Define the URLs
+url_dash = "https://feedback-dashboard-rava.streamlit.app/"
 url1 = "https://dynamic-prompt-generator.streamlit.app/"
 url2 = "https://static-workflows.streamlit.app/"
 url3 = "https://strategy-module.streamlit.app/"
@@ -21,6 +21,8 @@ url11 = "https://getytsummary-2sxerwtqmtcgoajjrmrnfw.streamlit.app/"
 url12 = "https://blog-rewriter.streamlit.app/"
 url13 = "https://blog-schema.streamlit.app/"
 url14 = "https://content-pillars.streamlit.app/"
+st.header("Feedback Dashboard")
+st.markdown(f"[Feedback Dashboard📋]({url_dash})")
 
 # Create hyperlinks using markdown
 st.header("Subhraneel")
