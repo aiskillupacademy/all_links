@@ -21,6 +21,8 @@ url11 = "https://getytsummary-2sxerwtqmtcgoajjrmrnfw.streamlit.app/"
 url12 = "https://blog-rewriter.streamlit.app/"
 url13 = "https://blog-schema.streamlit.app/"
 url14 = "https://content-pillars.streamlit.app/"
+url15 = "https://company-brief.streamlit.app/"
+url16 = "https://cold-emails.streamlit.app/"
 st.header("Feedback Dashboard")
 st.markdown(f"[Feedback Dashboard📋]({url_dash})")
 
@@ -36,6 +38,8 @@ st.markdown(f"[Blog Analyser🖋️]({url10})")
 st.markdown(f"[Blog Rewriter🔁]({url12})")
 st.markdown(f"[Blog Schema✍️]({url13})")
 st.markdown(f"[Content Pillars🗿]({url14})")
+st.markdown(f"[Content brief paragraph📜]({url15})")
+st.markdown(f"[Cold email sequence📧]({url16})")
 
 
 st.header("Subham")
